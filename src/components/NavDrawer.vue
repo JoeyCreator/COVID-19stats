@@ -2,7 +2,7 @@
 <template>
   <aside class="nav-drawer">
     <div class="title-area flex flex-row align-center justify-space-between">
-      <h4 class="logo-title">Menu</h4>
+      <h4 class="logo-title">Guide</h4>
       <a
         href="#"
         @click.prevent="$store.state.navDrawerOpen = !$store.state.navDrawerOpen"

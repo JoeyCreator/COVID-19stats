@@ -3,7 +3,7 @@
     <section class="hero text-center">
       <h1 class="display-1 text-white">Welcome</h1>
       <h6 class="title text-white">
-        <span style="font-weight: bold;">COVID-19 Stats</span> is dedicated to providing public data on COVID-19 in the US in a simple and easy to access way.
+        <span style="font-weight: bold;">COVID-19 Health</span> is dedicated to providing public data on COVID-19 in the US in a simple and easy to access way.
       </h6>
     </section>
     <transition name="fadeUp" mode="out-in">
