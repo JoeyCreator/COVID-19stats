@@ -2,7 +2,7 @@
   <div id="app">
     <header class="header flex flex-row align-center justify-space-between">
       <div class="logo">
-        <div class="logo-title">COVID-19 Stats</div>
+        <div class="logo-title">COVID-19 Health</div>
       </div>
       <div class="links flex flex-row align-center">
         <nav class="nav flex flex-row align-center">
@@ -40,7 +40,7 @@
     <footer class="footer">
       <div class="text-center">
         <i class="uil uil-github-alt text-cta"></i> Data provided by
-        <a href="https://github.com/pomber" target="_blank">Rodrigo Pombo</a>
+        <a href="https://github.com/joeycreator" target="_blank">Joey Cadieux</a>
       </div>
     </footer>
   </div>
